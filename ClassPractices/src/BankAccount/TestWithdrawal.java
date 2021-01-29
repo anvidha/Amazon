@@ -28,6 +28,11 @@ class TestWithdrawal {
 	
 	void testLoan() {
 		Account acc1 = new Account();
+		int tenure = 4;
+		int rate = 5;
+		double principalAmt = 20000;
+		
+		
 		
 //		double principalAmt = 
 		
